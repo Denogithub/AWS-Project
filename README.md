@@ -1,1 +1,1 @@
-# AWS Project & Administration #
+# AWS Administration #
